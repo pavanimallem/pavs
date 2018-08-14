@@ -1,5 +1,5 @@
 s=input()
-if s.is numaris():
+if s.isnumeris():
            print("yes")
- else:
+else:
            print("no")
